@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 from talib import EMA, LINEARREG, MAX, MIN, RSI, SMA, TRANGE
 
-# __author__ = "Vax, Jakkaphat"
+# __author__ = "Vaz, Jakkaphat"
 # __email__ = "4wonzest@gmail.com"
 
 
